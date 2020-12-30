@@ -18,14 +18,16 @@ Ce fichier va nous permettre:
 
 
 
-  ### d'ajouter un bus:
+  ### -d'ajouter un bus:
 
 
-  ### modiffier un  bus :
+  ### -modiffier un  bus :
 
 
-  ### supprimer un bus :
+  ### -supprimer un bus :
 
 
+### Programme_Principal.py
 
+Ce fichier permet d'executer directement tous les opérations citées plus haut juste en appelant les fonctions servant à executer les tâches désirées
 
