@@ -8,7 +8,7 @@ Pour ce qui est de l'organisation j'ai décidé de programmer en orienté objet 
 Ce fichier va nous permettre: 
 
 -de nous connecter à la base de donnée déjà existante (breizhibus.sql)
-
+![bdd breizhibus.png](image/bdd breizhibus.png)
 
 -de nous afficher les différents arrêts en fonction des lignes 
 
